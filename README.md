@@ -2,7 +2,7 @@
 arduino hovercraft c++ code c:
 
  Arduino Hoverboard coded by Taha, Muntasir, Fahim. Frame built by Fiaz & Jeeya
-``
+```
 Base fan for lifting, back propeller fans and servo as a sail. 
 
 hold the up and down buttons for speeding up and slowing down fan.
@@ -21,4 +21,4 @@ Vol- to go backwards
 
 up & down arrows ^^ to slow or speed up fans.
 
-``
+```
