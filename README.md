@@ -26,5 +26,4 @@ Watch the video of the [board in action](https://www.youtube.com/watch?v=kxlDmpP
 
 
 Visit the [simulation](https://www.tinkercad.com/things/j15bWvB8MbI)
-
-Update: As of May 24th 2023, simulation doesn't work anymore. Not my fault, tinkercad changed some stuff. Code still works fine on the Uno R3 chip.
+(Update: As of May 24th 2023, simulation doesn't work anymore. Not my fault, tinkercad changed some stuff. Code still works fine on the Uno R3 chip.)
