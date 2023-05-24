@@ -13,11 +13,11 @@ Vol+ to go forwards
 
 Vol- to go backwards
 
->>| to go right
+>>| to twist servo and turn right
 
-|<< to go left
+|<< to twist servo and turn left
 
->|| to stop pushing fans.
+>|| to stop fans.
 
 up & down arrows ^^ to slow or speed up fans.
 
