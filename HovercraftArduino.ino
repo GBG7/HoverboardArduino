@@ -59,7 +59,7 @@ void setup()
 
 void loop()
 {
-  //i dont understand half of this it is mostly copy paste from @helektrika please do not ask me to explain this i can not
+ 
     if (rc.decode(&results)){
       switch(results.value){
        //
